@@ -1,0 +1,188 @@
+Chidvielas
+ID: N25H02A0153
+CODING PROBLEM SET
+QUESTION
+DIFFICULTY
+STATUS
+Hello World
+Easy
+SOLVED
+Three Hashes
+Easy
+SOLVED
+Sum of 2495 and 789358
+Easy
+SOLVED
+Subtract 596 from 193856
+Easy
+SOLVED
+Product of 37, 61 and 391
+Easy
+SOLVED
+Divide 33968 by 176
+Easy
+SOLVED
+Print the Input - 2
+Easy
+SOLVED
+Print the Input - 3
+Easy
+SOLVED
+Join Words
+Easy
+SOLVED
+Full Name
+Easy
+SOLVED
+Print Name and Age
+Easy
+SOLVED
+String Repetition
+-
+SOLVED
+Simple Square - 2
+Easy
+SOLVED
+Simple Triangle
+Easy
+SOLVED
+Stars
+Easy
+SOLVED
+First Character
+Easy
+SOLVED
+Reverse the digits
+-
+SOLVED
+Length of the String
+-
+SOLVED
+Index of Last Character
+Easy
+SOLVED
+Last Character
+-
+SOLVED
+Star Repetition - 2
+Easy
+SOLVED
+Division of two numbers
+Easy
+SOLVED
+Area of a Rectangle
+-
+SOLVED
+Perimeter of Rectangle
+-
+SOLVED
+Subtraction of two numbers
+Easy
+SOLVED
+Percentage of Boys
+Easy
+SOLVED
+Kilometers to Meters
+-
+SOLVED
+Percentage
+Easy
+SOLVED
+Sum of the digits
+-
+SOLVED
+Indexing
+-
+SOLVED
+First Three Characters
+-
+SOLVED
+Part of a String - 2
+Easy
+SOLVED
+First N characters
+Easy
+SOLVED
+Second Part of a String
+Easy
+SOLVED
+Half String
+-
+SOLVED
+Star Repetition - 4
+Easy
+SOLVED
+Skipping Letters
+-
+SOLVED
+Simple Triangle - 4
+Easy
+SOLVED
+Stars - 3
+Easy
+SOLVED
+Greater than 70
+Easy
+SOLVED
+Greatest among two numbers
+Easy
+SOLVED
+Equal to
+Easy
+SOLVED
+Sunday
+Easy
+SOLVED
+Greater than or Equal to
+Easy
+SOLVED
+Compare First & Last Letters
+Easy
+SOLVED
+Compare Sum of the Digits
+Easy
+SOLVED
+Validate Password
+-
+SOLVED
+Check Last Part of a String
+Easy
+SOLVED
+Compare First Three Characters
+-
+SOLVED
+Greater than Nine
+Easy
+SOLVED
+1 TO 50 OF 1825
+1
+2
+3
+4
+5
+...
+37
+Status
+Clear All
+Solved
+In Progress
+Not Attempted
+Course
+Programming Foundations
+Data Structures & Algorithms
+Build Your Own Static Website
+Build Your Own Responsive Website
+Modern Responsive Web Design
+Build Your Own Dynamic Web Application
+JS Essentials
+Introduction to React JS
+Topic
+Select a course to view topics.
+Verify your Face ID
+Instructions:-
+1.
+Biometric verification requires access to your camera, please Turn on Camera to proceed.
+2.
+Position yourself in front of the camera, within the box from head to chin, ensuring that your entire face is fully visible inside the box, and do not move the device to ensure accurate detection.
+3.
+Avoid bright light sources behind you , instead, ensure the light is in front of you for better face visibility.

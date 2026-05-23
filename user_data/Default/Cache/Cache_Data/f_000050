@@ -1,0 +1,1076 @@
+{
+  "certifications_page_url": "https://skill-certifications-v1.replit.app/",
+  "student_internships_page_url": "https://academy-internships.replit.app/",
+  "slugs": [
+    {
+      "program_id": "fa8e53f9-718d-400b-9f67-f6cc8dc09c29",
+      "slug": "ai-ml"
+    },
+    {
+      "program_id": "25ecb847-6de5-4eb6-ad1c-cf8ee78dd90d",
+      "slug": "backend-development"
+    },
+    {
+      "program_id": "aedf1975-bd49-4011-be3d-ee2a6c536094",
+      "slug": "competitive-programming"
+    },
+    {
+      "program_id": "5f304258-0fd6-4818-98f7-a3e74a5d2a2e",
+      "slug": "data-science"
+    },
+    {
+      "program_id": "d3c2d295-bda9-4516-b191-e253bb9aa912",
+      "slug": "tech-foundations"
+    },
+    {
+      "program_id": "5645955e-52c3-4912-9ab7-2056adede193",
+      "slug": "frontend-development"
+    },
+    {
+      "program_id": "828a29ec-ccd1-471c-a529-b1a84b32e347",
+      "slug": "ar-vr"
+    },
+    {
+      "program_id": "37cee57f-d88d-46e3-bb96-9fe63568c747",
+      "slug": "xpm-fundamentals"
+    },
+    {
+      "program_id": "041234c0-a4b4-481b-b7a3-60f2aba21fa3",
+      "slug": "entrepreneurship"
+    },
+    {
+      "program_id": "95292650-a339-41dd-aaeb-db0e1eb7f162",
+      "slug": "21st-century-business-essentials"
+    },
+    {
+      "program_id": "8dca18f0-d078-4835-871f-c3e42dbc6fb9",
+      "slug": "advanced-courses-and-specializations"
+    },
+    {
+      "program_id": "1180cad9-9455-494f-88e2-b50a19df4830",
+      "slug": "xpm-intermediate"
+    },
+    {
+      "program_id": "09eca537-7e72-49f6-810f-7e4d653d0ae1",
+      "slug": "xpm-pre-advanced"
+    },
+    {
+      "program_id": "45c1974a-3065-46b7-85dd-606f7de29076",
+      "slug": "xpm-advanced"
+    },
+    {
+      "program_id": "73507116-8ff6-4b9d-8282-d87809fdea62",
+      "slug": "otg"
+    },
+    {
+      "program_id": "00937f08-422c-4881-8746-0e9a34618e45",
+      "slug": "jg-cycle"
+    },
+    {
+      "program_id": "f9b2b885-c34a-427b-830f-6256c4d24fa6",
+      "slug": "projects"
+    },
+    {
+      "program_id": "59b1a8a4-22e4-4c8a-b6ca-2e579bf525d1",
+      "slug": "ccbp4point0-intro"
+    },
+    {
+      "program_id": "5ca8d4c7-d693-44fc-bf6c-ca02679bc7f1",
+      "slug": "jgc3"
+    },
+    {
+      "program_id": "1476c662-b2b5-4526-a31c-78c082681c29",
+      "slug": "free-trial"
+    },
+    {
+      "program_id": "66b8ff88-4ec9-4eeb-b128-ad32b3ce91ed",
+      "slug": "ccbp-webinar"
+    },
+    {
+      "program_id": "343e731b-51f1-4118-9a11-300464314766",
+      "slug": "jgc4"
+    },
+    {
+      "program_id": "d1600b75-5eb3-40e1-a97a-d6f3d8366e11",
+      "slug": "4point0fellowship"
+    },
+    {
+      "program_id": "72635d10-0e76-4a54-a23d-90fbf7748b43",
+      "slug": "intensive-ccbp4point0-intro"
+    },
+    {
+      "program_id": "72635d10-0e76-4a54-a23d-90fbf7748b43",
+      "slug": "intensive-cbp4point0-intro"
+    },
+    {
+      "program_id": "a41a7384-6c58-4d4c-b0ff-2dcb2ff3c262",
+      "slug": "intensive-tech-foundations"
+    },
+    {
+      "program_id": "c6c4e883-dece-489f-89d2-f491aa96d13b",
+      "slug": "intensive-fullstack-frontend"
+    },
+    {
+      "program_id": "d719b86b-d9fc-42ae-8096-471feb60492a",
+      "slug": "intensive-fullstack-backend"
+    },
+    {
+      "program_id": "355f2ab0-5ca5-4ca5-b206-db03516a0d3a",
+      "slug": "intensive-interview-essentials"
+    },
+    {
+      "program_id": "f1988d6b-2ad6-4b30-8e3f-d37a7911f6a5",
+      "slug": "jgc5"
+    },
+    {
+      "program_id": "cef552c1-2ee5-470d-9e81-be90b38c6cbb",
+      "slug": "4point0fellowship-2"
+    },
+    {
+      "program_id": "53e69b05-125b-45e9-ae60-c926dacd484e",
+      "slug": "4point0-tech-online-bootcamp"
+    },
+    {
+      "program_id": "909b3d33-dab1-4085-a37f-613481f9091d",
+      "slug": "4point0-tech-essentials"
+    },
+    {
+      "program_id": "b9f31f35-ece3-48ff-8b9d-512cc4a2cd70",
+      "slug": "rakesh-misra"
+    },
+    {
+      "program_id": "80ee4c13-3f45-4fb1-a372-ecc9eaf63c29",
+      "slug": "high-paid-tech-jobs"
+    },
+    {
+      "program_id": "7d58ad60-670d-4788-85cb-9321b8ed744e",
+      "slug": "srividya-pranavi"
+    },
+    {
+      "program_id": "93246fb9-73e6-4405-b5b5-ffa2c8adb044",
+      "slug": "trivikrama"
+    },
+    {
+      "program_id": "546f49e1-8406-4fa8-8a5f-b9a8c5a8fbe1",
+      "slug": "intro-to-cysec-and-pt"
+    },
+    {
+      "program_id": "b5b05c24-e544-413e-b063-ffa9addf5bbc",
+      "slug": "priyatham-bollimpalli"
+    },
+    {
+      "program_id": "9240bba5-474b-48d7-9ae5-e40b83f4c22e",
+      "slug": "intensive-aptitude"
+    },
+    {
+      "program_id": "23a77619-3633-4983-aa21-63cb6eec2e31",
+      "slug": "4point0-tech-quiz"
+    },
+    {
+      "program_id": "9d5112ac-4bd2-4612-845f-d779e7881d2f",
+      "slug": "hari-tn"
+    },
+    {
+      "program_id": "39c6b6c4-e739-425f-bc50-fa6a8117a6d9",
+      "slug": "vulnerability-assessment-and-malware-analysis"
+    },
+    {
+      "program_id": "4894261f-b49b-420b-9e5b-746f05e922d5",
+      "slug": "instruction-flows"
+    },
+    {
+      "program_id": "adbdd50c-0fa1-4aab-a2eb-1e7d60302937",
+      "slug": "cybersecurity-analyst"
+    },
+    {
+      "program_id": "574bf363-454c-4752-ad21-abc995fc885a",
+      "slug": "academy-ccbp-4point0-intro"
+    },
+    {
+      "program_id": "a2b60be2-62fc-4fe2-86f6-e06159ee8108",
+      "slug": "trivikrama-k"
+    },
+    {
+      "program_id": "d57fd82e-5a3c-4be3-988b-08f67e2cb5a2",
+      "slug": "nikhil-vavs"
+    },
+    {
+      "program_id": "40586bc0-e82d-48d8-bb67-fa3d127747ca",
+      "slug": "dos"
+    },
+    {
+      "program_id": "6933e0ea-172e-43d2-82bb-a3d85db02dd5",
+      "slug": "english-for-beginners"
+    },
+    {
+      "program_id": "5d5be1c5-137a-4eb9-a2bf-ebd825175ae8",
+      "slug": "cge-learning-journey"
+    },
+    {
+      "program_id": "ce732784-a60a-4866-a3c2-c55795d75ba2",
+      "slug": "cba-learning-journey"
+    },
+    {
+      "program_id": "6f80054e-ab2a-469f-bbdb-247fa69408bd",
+      "slug": "pre-learning-journey"
+    },
+    {
+      "program_id": "f9ea2cb0-deb5-4ba6-84de-232d213696fe",
+      "slug": "ashok-vardhan-viswanatha"
+    },
+    {
+      "program_id": "c8a26e3e-c06d-4aa9-97cf-60b92d08d0a3",
+      "slug": "tech4point0tracks-intro"
+    },
+    {
+      "program_id": "59b620b9-d53c-4249-bd13-08e6fd0c17c5",
+      "slug": "internships-1"
+    },
+    {
+      "program_id": "94e1a2ca-60b5-4e13-91b9-7ec6840a5f0f",
+      "slug": "internships-2"
+    },
+    {
+      "program_id": "dc60c7a5-475d-499b-ada8-89afd0c86861",
+      "slug": "cba-learning-journey-tamil"
+    },
+    {
+      "program_id": "19843908-c1f3-486d-8857-4a5e2a4bdf4e",
+      "slug": "cge-learning-journey-tamil"
+    },
+    {
+      "program_id": "5362f314-5ca1-430e-b84d-eb4d975afeb8",
+      "slug": "c-programming-language"
+    },
+    {
+      "program_id": "abe03736-cb18-4fef-8f62-a9bdde8381e8",
+      "slug": "ram-ganesh"
+    },
+    {
+      "program_id": "62a27de0-111d-4bfa-91da-5dee3c3ca685",
+      "slug": "placement-preparation"
+    },
+    {
+      "program_id": "de56ba30-7ceb-4194-ac18-1352653f26f2",
+      "slug": "teaching-assistant"
+    },
+    {
+      "program_id": "12357a11-9e56-46ec-8c45-829011a521d7",
+      "slug": "aim-gsoc"
+    },
+    {
+      "program_id": "0a2dc04a-45e6-4da3-a9d4-a60dc181fc5d",
+      "slug": "qa-automation-testing"
+    },
+    {
+      "program_id": "90036bc8-d3ed-4831-998b-61827f6c4bf4",
+      "slug": "data-analytics"
+    },
+    {
+      "program_id": "20636cca-6a01-4d04-a089-ee662458d639",
+      "slug": "revision"
+    },
+    {
+      "program_id": "f7ead1f1-716e-42df-9385-d1a963a9d4f6",
+      "slug": "intensive-learning-journey"
+    },
+    {
+      "program_id": "3d6f1e1c-b13e-40c0-9768-478858afc272",
+      "slug": "10x-activity"
+    },
+    {
+      "program_id": "570736a7-fc0a-4d2e-95dd-fc28b88b1a31",
+      "slug": "cba-interview-preparation-journey"
+    },
+    {
+      "program_id": "9695e94f-0d98-4333-97fd-80cb97bd651e",
+      "slug": "spoken-english"
+    },
+    {
+      "program_id": "08357178-4814-49b2-8990-1dd2c0cb1323",
+      "slug": "interview-preparation-series"
+    },
+    {
+      "program_id": "64df8b43-b7db-413b-8239-a311d4dbd4d4",
+      "slug": "interview-preparation-guide"
+    },
+    {
+      "program_id": "bac61c78-ac26-4d91-a1d1-b899685f6603",
+      "slug": "quantitative-aptitude"
+    },
+    {
+      "program_id": "2bf7d36e-a821-416d-a044-d68276dd5bdf",
+      "slug": "java-full-stack"
+    },
+    {
+      "program_id": "76b463f5-769f-44f8-8324-18fd2f6ce5c0",
+      "slug": "dsa"
+    },
+    {
+      "program_id": "57b2338c-2a2a-4506-983c-e490d284b78f",
+      "slug": "intro-to-4point0-education"
+    },
+    {
+      "program_id": "b02fac59-f4e9-4ee0-8708-68eb957d2077",
+      "slug": "basic-aptitude-101"
+    },
+    {
+      "program_id": "6c46052a-2684-4d8e-a578-8c04b2255fcf",
+      "slug": "maths-essentials"
+    },
+    {
+      "program_id": "4dbc206b-a8b9-4451-a208-25e0c5224b02",
+      "slug": "foundation"
+    },
+    {
+      "program_id": "b59d455c-fbf8-46d5-bd54-150019a50f48",
+      "slug": "academy-early-access"
+    },
+    {
+      "program_id": "7b932566-9f99-468e-b002-52d4ba1a96a8",
+      "slug": "niat-aptitude"
+    },
+    {
+      "program_id": "3018015d-311e-4a1a-b939-b1bbfebf0ff5",
+      "slug": "niat-verbal"
+    },
+    {
+      "program_id": "84bb43bd-fb8d-4e8c-b8cf-4ad9358b592d",
+      "slug": "math-for-ml"
+    },
+    {
+      "program_id": "77fc418b-04af-4d24-a175-a3c6ef8258c1",
+      "slug": "classical-ml"
+    },
+    {
+      "program_id": "f098a82a-f1dc-4ec6-af9e-6f494364a244",
+      "slug": "deep-learning"
+    },
+    {
+      "program_id": "9af58667-905d-479f-9970-4cfbecf71024",
+      "slug": "dsa-live-sessions"
+    },
+    {
+      "program_id": "5d37021b-8c81-4fa5-b1bd-50678c59eff0",
+      "slug": "preparation-guide"
+    },
+    {
+      "program_id": "40f961b4-e9a9-4ee1-9e17-fc6a5d7db25c",
+      "slug": "product-based-companies"
+    },
+    {
+      "program_id": "49ae4afe-82b8-4e1f-8870-5756fbcb2a7d",
+      "slug": "topin-dsa"
+    },
+    {
+      "program_id": "83ae4fef-bda0-49a8-a979-ae9bc3217423",
+      "slug": "topin-problem-solving"
+    },
+    {
+      "program_id": "fb3319a3-9a4a-44d1-a683-5fc3d0063c42",
+      "slug": "topin-python"
+    },
+    {
+      "program_id": "1431d6c3-6408-4463-a995-669a23703c09",
+      "slug": "topin-java"
+    },
+    {
+      "program_id": "3cf42395-6d16-4b65-9d14-2193e603c841",
+      "slug": "sprint-courses"
+    },
+    {
+      "program_id": "a1c2ac46-5ec3-48f0-a746-1239f777e467",
+      "slug": "flipkart"
+    },
+    {
+      "program_id": "603c30b4-dd1a-4802-b5ca-4dafb6dca62d",
+      "slug": "oracle"
+    },
+    {
+      "program_id": "ca487c23-0621-40bc-a3b6-5c7496246ee4",
+      "slug": "wells-fargo"
+    },
+    {
+      "program_id": "49ead271-79e4-4d68-9f4a-3bbd7f387b26",
+      "slug": "intel"
+    },
+    {
+      "program_id": "44f973f2-fbab-473c-af26-5a90e9fb07e9",
+      "slug": "goldman-sach"
+    },
+    {
+      "program_id": "b6e4bb27-8aa4-4d49-835c-d90d10c5b73b",
+      "slug": "accenture"
+    },
+    {
+      "program_id": "20ae94de-a07e-48da-8a84-00f9749e06b0",
+      "slug": "dxc"
+    },
+    {
+      "program_id": "707af883-104e-4c2a-80fb-ff58e2c8f0b0",
+      "slug": "tcs"
+    },
+    {
+      "program_id": "56f33d29-fadd-44f9-8d7d-efca13d90cde",
+      "slug": "infosys"
+    },
+    {
+      "program_id": "057ba10e-18e3-4761-8853-46964fdca61d",
+      "slug": "wipro"
+    },
+    {
+      "program_id": "36604be5-13c7-4726-b015-d1fa8c6b9d36",
+      "slug": "hcl-technologies"
+    },
+    {
+      "program_id": "04113438-7c21-4e94-ad17-d216052a3471",
+      "slug": "tech-mahindra"
+    },
+    {
+      "program_id": "44589eab-5d1b-4641-a104-31aefccbc7c8",
+      "slug": "ernst-young"
+    },
+    {
+      "program_id": "9b713ee0-e7d3-46df-b74f-27b17e7807cd",
+      "slug": "amdocs"
+    },
+    {
+      "program_id": "773fb0e6-c5e4-41be-b76e-4faa6a7716b9",
+      "slug": "atos"
+    },
+    {
+      "program_id": "bc7b32ea-8dad-447a-bc39-abf538ce4db9",
+      "slug": "cognizant"
+    },
+    {
+      "program_id": "c766a44c-3ba9-4b56-aa46-db1cefe37cae",
+      "slug": "deloitte"
+    },
+    {
+      "program_id": "57ece5e1-4cfe-4bcd-9d8c-8abc34f392e1",
+      "slug": "aptitude"
+    },
+    {
+      "program_id": "da7ad5c0-241a-494d-b451-316a22542396",
+      "slug": "reasoning"
+    },
+    {
+      "program_id": "6b7fec1d-5580-4ab4-839f-2dbc391f16d7",
+      "slug": "interview-preparation"
+    },
+    {
+      "program_id": "8ecd4438-a072-44c8-b2b4-627a7b12295d",
+      "slug": "verbal-ability"
+    },
+    {
+      "program_id": "76b4d28a-5e02-443c-bb42-87bbb6e281fd",
+      "slug": "python-for-dsml"
+    },
+    {
+      "program_id": "f30721fd-1391-4248-bab4-906600288f3d",
+      "slug": "cge-training"
+    },
+    {
+      "program_id": "d78667bc-c69b-4c2f-8b3b-4db62ae0f4c2",
+      "slug": "swayam"
+    },
+    {
+      "program_id": "510cede7-84cb-49f1-a7ea-8d5d53e8a310",
+      "slug": "swayam-1"
+    },
+    {
+      "program_id": "57f554d4-4b4e-401d-a9db-5f71fb060146",
+      "slug": "swayam-2"
+    },
+    {
+      "program_id": "34bb8a8c-5733-4910-85fb-4262eabe1196",
+      "slug": "swayam-3"
+    },
+    {
+      "program_id": "dd5a2669-d108-4be1-87d8-7de3ca8681c4",
+      "slug": "swayam-4"
+    },
+    {
+      "program_id": "d23d2275-7f03-462a-b909-aad021fc29ac",
+      "slug": "FDP_Platform"
+    },
+    {
+      "program_id": "13684215-433f-43f4-bb25-ca7a07ff9951",
+      "slug": "NEAT_WEB_1"
+    },
+    {
+      "program_id": "3c51c834-253c-4482-b0ec-f80ec4573ebb",
+      "slug": "niat-nri-sem-1"
+    },
+    {
+      "program_id": "9852d4fb-64b5-40e7-9928-ce9784b487e9",
+      "slug": "niat-nri"
+    },
+    {
+      "program_id": "2c5153ef-d341-4e10-9ff3-2ef9c6d4804b",
+      "slug": "Arena"
+    }
+  ],
+  "chat_details": {
+    "default_phone_number": "+918008900906",
+    "course_phone_numbers": [],
+    "program_phone_numbers": []
+  },
+  "is_internships_coming_soon": true,
+  "direct_navigation": [
+    {
+      "program_id": "fb3319a3-9a4a-44d1-a683-5fc3d0063c42",
+      "course_id": "725a2a54-ab19-48b5-8c94-780f075078ac"
+    },
+    {
+      "program_id": "1431d6c3-6408-4463-a995-669a23703c09",
+      "course_id": "c7392fbb-5e12-4662-ab14-a2306d4e6166"
+    },
+    {
+      "program_id": "5d37021b-8c81-4fa5-b1bd-50678c59eff0",
+      "course_id": "18530d9d-a438-4b6b-a6c9-08a106df6603"
+    },
+    {
+      "program_id": "40f961b4-e9a9-4ee1-9e17-fc6a5d7db25c",
+      "course_id": "2023e9d8-c4ad-4560-a5d1-9c6a91263718"
+    },
+    {
+      "program_id": "49ae4afe-82b8-4e1f-8870-5756fbcb2a7d",
+      "course_id": "2c4b0ae8-259a-4c96-b5dd-f76c37724016"
+    },
+    {
+      "program_id": "83ae4fef-bda0-49a8-a979-ae9bc3217423",
+      "course_id": "da091756-d897-4960-bb07-8913832a5d23"
+    },
+    {
+      "program_id": "4894261f-b49b-420b-9e5b-746f05e922d5",
+      "course_id": "3e11dd55-1c98-4fe5-931a-a829761536ec"
+    },
+    {
+      "program_id": "00937f08-422c-4881-8746-0e9a34618e45",
+      "course_id": "e52ccfa9-9085-4603-a5a4-664d73dc0eeb"
+    },
+    {
+      "program_id": "0cf0f2e7-d200-403e-83d7-55498a85b794",
+      "course_id": "de616c57-a6bd-4e4c-b605-b1a1b46004ff"
+    },
+    {
+      "program_id": "59b1a8a4-22e4-4c8a-b6ca-2e579bf525d1",
+      "course_id": "0ed3c990-ac6d-41cd-8dc8-e0e64ac0a8cb"
+    },
+    {
+      "program_id": "95292650-a339-41dd-aaeb-db0e1eb7f162",
+      "course_id": "3d0974ce-0ccf-4a5c-8a22-2193811a0ed0"
+    },
+    {
+      "program_id": "73507116-8ff6-4b9d-8282-d87809fdea62",
+      "course_id": "25480fcd-5d30-454a-8894-a5739cf68827"
+    },
+    {
+      "program_id": "5ca8d4c7-d693-44fc-bf6c-ca02679bc7f1",
+      "course_id": "422c795d-e17b-49fd-9fce-0d0140dd6069"
+    },
+    {
+      "program_id": "1476c662-b2b5-4526-a31c-78c082681c29",
+      "course_id": "b774724f-a9d6-4ca6-a413-0481be912aa6"
+    },
+    {
+      "program_id": "66b8ff88-4ec9-4eeb-b128-ad32b3ce91ed",
+      "course_id": "2c39d545-fbbb-4c28-bc77-e019aa08fdb1"
+    },
+    {
+      "program_id": "343e731b-51f1-4118-9a11-300464314766",
+      "course_id": "8612ac58-0e66-4bd1-960a-56c51330ea9e"
+    },
+    {
+      "program_id": "d1600b75-5eb3-40e1-a97a-d6f3d8366e11",
+      "course_id": "5e298035-3eb7-4e21-8cbb-25419c2e6cbf"
+    },
+    {
+      "program_id": "f1988d6b-2ad6-4b30-8e3f-d37a7911f6a5",
+      "course_id": "2c929cf3-0942-4d73-87a8-e0be62adac83"
+    },
+    {
+      "program_id": "cef552c1-2ee5-470d-9e81-be90b38c6cbb",
+      "course_id": "790673b6-fd6f-46a8-8290-f7269fc59937"
+    },
+    {
+      "program_id": "53e69b05-125b-45e9-ae60-c926dacd484e",
+      "course_id": "cd090e40-a5e1-4cb1-9601-b15bebc1b8b4"
+    },
+    {
+      "program_id": "80ee4c13-3f45-4fb1-a372-ecc9eaf63c29",
+      "course_id": "4f9e06d2-e4ed-4c06-825f-8b43c32a4aca"
+    },
+    {
+      "program_id": "7d58ad60-670d-4788-85cb-9321b8ed744e",
+      "course_id": "fbbaea2f-9ba2-46bc-bce2-3a013e0c3414"
+    },
+    {
+      "program_id": "93246fb9-73e6-4405-b5b5-ffa2c8adb044",
+      "course_id": "88be42a6-4289-4bbf-aaf1-f3a99cd748bd"
+    },
+    {
+      "program_id": "546f49e1-8406-4fa8-8a5f-b9a8c5a8fbe1",
+      "course_id": "ff938108-2611-4e4a-bd10-5887fb141a9a"
+    },
+    {
+      "program_id": "b5b05c24-e544-413e-b063-ffa9addf5bbc",
+      "course_id": "0ac5b2db-047b-4e8a-89b8-935771ce77f3"
+    },
+    {
+      "program_id": "355f2ab0-5ca5-4ca5-b206-db03516a0d3a",
+      "course_id": "67ea81ab-112c-4ad5-b1de-217460c33766"
+    },
+    {
+      "program_id": "23a77619-3633-4983-aa21-63cb6eec2e31",
+      "course_id": "a01e78c1-d81d-4a1a-ad9d-f5b90179a742"
+    },
+    {
+      "program_id": "9d5112ac-4bd2-4612-845f-d779e7881d2f",
+      "course_id": "ecf86b48-5183-491f-b55d-44352379fc27"
+    },
+    {
+      "program_id": "39c6b6c4-e739-425f-bc50-fa6a8117a6d9",
+      "course_id": "817ed8ab-09bc-444d-bb13-305fd96598dc"
+    },
+    {
+      "program_id": "574bf363-454c-4752-ad21-abc995fc885a",
+      "course_id": "3999a169-9a38-4f61-b306-7d958bc9b2d4"
+    },
+    {
+      "program_id": "a2b60be2-62fc-4fe2-86f6-e06159ee8108",
+      "course_id": "14622c89-50a1-4421-ab94-f0ccd7e1c85f"
+    },
+    {
+      "program_id": "d57fd82e-5a3c-4be3-988b-08f67e2cb5a2",
+      "course_id": "ffe232e8-9eb4-42f5-a3bb-35d3019bef8b"
+    },
+    {
+      "program_id": "40586bc0-e82d-48d8-bb67-fa3d127747ca",
+      "course_id": "11711d9b-1e3f-413e-944c-8d460e1814dc"
+    },
+    {
+      "program_id": "5d5be1c5-137a-4eb9-a2bf-ebd825175ae8",
+      "course_id": "27028f3a-1d3b-4132-9728-ff4cae49a673"
+    },
+    {
+      "program_id": "ce732784-a60a-4866-a3c2-c55795d75ba2",
+      "course_id": "a249b582-4092-4332-869d-c09eef15716f"
+    },
+    {
+      "program_id": "6f80054e-ab2a-469f-bbdb-247fa69408bd",
+      "course_id": "6fcacd78-5232-4ccf-8a24-0f14d9b8802c"
+    },
+    {
+      "program_id": "f9ea2cb0-deb5-4ba6-84de-232d213696fe",
+      "course_id": "2840fe7b-9007-4d28-9b43-c7c2226da9c2"
+    },
+    {
+      "program_id": "c8a26e3e-c06d-4aa9-97cf-60b92d08d0a3",
+      "course_id": "e2649337-73ea-4136-952f-0efc5ea8c502"
+    },
+    {
+      "program_id": "59b620b9-d53c-4249-bd13-08e6fd0c17c5",
+      "course_id": "6b217ca5-0a67-49c9-9abb-13cb46f7559c"
+    },
+    {
+      "program_id": "94e1a2ca-60b5-4e13-91b9-7ec6840a5f0f",
+      "course_id": "dbe9002f-0971-4499-8a97-2b4214339ab2"
+    },
+    {
+      "program_id": "dc60c7a5-475d-499b-ada8-89afd0c86861",
+      "course_id": "4af2e910-6bb8-4323-ba48-acb59cd7bbde"
+    },
+    {
+      "program_id": "19843908-c1f3-486d-8857-4a5e2a4bdf4e",
+      "course_id": "44e9765a-c0b3-437e-9bc3-7dcd21e7cfef"
+    },
+    {
+      "program_id": "5362f314-5ca1-430e-b84d-eb4d975afeb8",
+      "course_id": "3152068b-f08c-4f9a-8da9-ae8f941584e4"
+    },
+    {
+      "program_id": "12357a11-9e56-46ec-8c45-829011a521d7",
+      "course_id": "1223f415-101b-4125-8b56-b95fdb4f9fc4"
+    },
+    {
+      "program_id": "20636cca-6a01-4d04-a089-ee662458d639",
+      "course_id": "ed8f77c4-1b05-42f2-92e5-ac2ae9643a3a"
+    },
+    {
+      "program_id": "f7ead1f1-716e-42df-9385-d1a963a9d4f6",
+      "course_id": "1b5cd851-da2d-435f-8013-14ddc3503eed"
+    },
+    {
+      "program_id": "3d6f1e1c-b13e-40c0-9768-478858afc272",
+      "course_id": "13c49b47-71c4-44cf-ac9d-276bc6b8e504"
+    },
+    {
+      "program_id": "570736a7-fc0a-4d2e-95dd-fc28b88b1a31",
+      "course_id": "24e4b949-0631-4403-8426-46e310ff7eb6"
+    },
+    {
+      "program_id": "6c46052a-2684-4d8e-a578-8c04b2255fcf",
+      "course_id": "d4ef8ce1-e026-483e-9aac-004d9a227475"
+    },
+    {
+      "program_id": "a1c2ac46-5ec3-48f0-a746-1239f777e467",
+      "course_id": "cd77266f-19d3-4a74-b930-2fc696ca41ee"
+    },
+    {
+      "program_id": "603c30b4-dd1a-4802-b5ca-4dafb6dca62d",
+      "course_id": "6c6894d9-9d81-4b2a-b4c2-8f5ef3e371bd"
+    },
+    {
+      "program_id": "ca487c23-0621-40bc-a3b6-5c7496246ee4",
+      "course_id": "37f28c9a-7fb2-4fd4-ae22-346c1d908e38"
+    },
+    {
+      "program_id": "49ead271-79e4-4d68-9f4a-3bbd7f387b26",
+      "course_id": "90b467a0-84ba-4a82-a5d9-378d293851c1"
+    },
+    {
+      "program_id": "44f973f2-fbab-473c-af26-5a90e9fb07e9",
+      "course_id": "a0e296ac-e20f-4a6f-a011-01cc3323d9c5"
+    },
+    {
+      "program_id": "b6e4bb27-8aa4-4d49-835c-d90d10c5b73b",
+      "course_id": "41d4d9e0-1922-4be4-9a1b-e55c851d5b28"
+    },
+    {
+      "program_id": "20ae94de-a07e-48da-8a84-00f9749e06b0",
+      "course_id": "f69835f8-af2a-4b64-aa43-1da8ad842d1b"
+    },
+    {
+      "program_id": "707af883-104e-4c2a-80fb-ff58e2c8f0b0",
+      "course_id": "00c10744-62b3-4cc0-bfad-17fd1c37faba"
+    },
+    {
+      "program_id": "56f33d29-fadd-44f9-8d7d-efca13d90cde",
+      "course_id": "e253797c-c11c-402c-ac9f-b8ae076d8b9d"
+    },
+    {
+      "program_id": "057ba10e-18e3-4761-8853-46964fdca61d",
+      "course_id": "aa03c34b-1b8a-49b5-a959-704c5086e2c4"
+    },
+    {
+      "program_id": "36604be5-13c7-4726-b015-d1fa8c6b9d36",
+      "course_id": "0983bd8d-4583-4fab-bbd4-581789e635ef"
+    },
+    {
+      "program_id": "04113438-7c21-4e94-ad17-d216052a3471",
+      "course_id": "690141e3-6941-4bb4-b615-f1a1693ba4f3"
+    },
+    {
+      "program_id": "44589eab-5d1b-4641-a104-31aefccbc7c8",
+      "course_id": "289c6c5c-6452-4f10-8dd7-fe7a8cbe24e3"
+    },
+    {
+      "program_id": "9b713ee0-e7d3-46df-b74f-27b17e7807cd",
+      "course_id": "6adcfd97-f5a1-467d-a44f-b1037a5ec3dc"
+    },
+    {
+      "program_id": "773fb0e6-c5e4-41be-b76e-4faa6a7716b9",
+      "course_id": "62cce9c2-7997-400e-aa60-c4079f56e240"
+    },
+    {
+      "program_id": "bc7b32ea-8dad-447a-bc39-abf538ce4db9",
+      "course_id": "8f4f1b77-1f6c-4edc-b245-4eead9bce0a7"
+    },
+    {
+      "program_id": "c766a44c-3ba9-4b56-aa46-db1cefe37cae",
+      "course_id": "6239ab2a-ba22-4ce8-9be6-835eb956cc78"
+    },
+    {
+      "program_id": "57ece5e1-4cfe-4bcd-9d8c-8abc34f392e1",
+      "course_id": "c2860c38-09c0-499d-b5e0-1a1c8da92710"
+    },
+    {
+      "program_id": "da7ad5c0-241a-494d-b451-316a22542396",
+      "course_id": "5f2488a0-eeaf-4ab5-9440-2945cab27afa"
+    },
+    {
+      "program_id": "6b7fec1d-5580-4ab4-839f-2dbc391f16d7",
+      "course_id": "c5f6eec4-6a25-46ba-b02e-28c1b32475f5"
+    },
+    {
+      "program_id": "8ecd4438-a072-44c8-b2b4-627a7b12295d",
+      "course_id": "34edffdd-8d6d-437a-ac58-4b988985a7a7"
+    },
+    {
+      "program_id": "f30721fd-1391-4248-bab4-906600288f3d",
+      "course_id": "6b17dfa4-88ce-4fd9-856f-2cd0b379e046"
+    },
+    {
+      "program_id": "d23d2275-7f03-462a-b909-aad021fc29ac",
+      "course_id": "593af557-0b2c-41b3-a2a9-441117ee23e4"
+    }
+  ],
+  "fallback_cdn_urls": [
+    "https://media-content.onthegomodel.com/",
+    "https://d1tgh8fmlzexmh.cloudfront.net/"
+  ],
+  "programming_language_images_urls": {
+    "C": "https://d1tgh8fmlzexmh.cloudfront.net/website/programming_languages/c_3x.png",
+    "JAVA": "https://d1tgh8fmlzexmh.cloudfront.net/website/programming_languages/java_3x.png",
+    "PYTHON": "https://d1tgh8fmlzexmh.cloudfront.net/website/programming_languages/python_3x.png",
+    "CPP": "https://d1tgh8fmlzexmh.cloudfront.net/website/programming_languages/cpp_3x.png",
+    "HTML": "https://d1tgh8fmlzexmh.cloudfront.net/website/programming_languages/html_3x.png",
+    "CSS": "https://d1tgh8fmlzexmh.cloudfront.net/website/programming_languages/html_3x.png",
+    "JAVASCRIPT": "https://d1tgh8fmlzexmh.cloudfront.net/website/programming_languages/html_3x.png",
+    "SQL": "https://d1tgh8fmlzexmh.cloudfront.net/website/programming_languages/sql_3x.png"
+  },
+  "free_trail_restricted_programs": [
+    {
+      "program_id": "59b1a8a4-22e4-4c8a-b6ca-2e579bf525d1"
+    }
+  ],
+  "no_category_units": [
+    "147db2d2-9e55-4109-9b16-667718cc7181"
+  ],
+  "terms_and_conditions_url": "https://www.ccbp.in/terms-and-conditions",
+  "discussions_announcement_text": "",
+  "ide_platform_instructions": {
+    "windows": "## System Requirements\n\nThe following hardware prerequisites are required to successfully setup **CCBP IDE** in your **Windows System**\n\n<SubSection>\n- A **64-bit Windows 10** with **Version 1903** or higher, with a **Build** higher than **18363.1049**.\n- A 15 GB free space on C: Drive\n- 4 GB system RAM (Minimum).\n- BIOS-level hardware virtualization support must be **enabled** in the BIOS settings.\n</SubSection>\n\n<MultiLineNote>\n- For smooth running of the IDE, it is recommended to have **8 GB of RAM** and an **SSD** for C: drive. \n- With a lesser configuration, you will experience your PC to hang occasionally as the setup is Memory and Disk intensive. \n- If your PC has less than 6 GB RAM, then installing Ubuntu OS alongside Windows and working on Ubuntu instead is recommended over doing the following setup.\n</MultiLineNote>\n\n<MultiLineWarning>\nIf your PC date & time are incorrect, then you will run into issues during installation and usage. You need to update your PC's date & time and *restart* it before proceeding further.\n</MultiLineWarning>\n\n\n<MultiLineQuickTip>\nTo check your version and build number, select <HighlightedText>Windows logo key + R</HighlightedText>, type `winver`, select OK.\n</MultiLineQuickTip>\n\n<MultiLineNote>\nIf you are running an older version of Windows 10, open **\"Settings\"** from your Windows menu, navigate to **\"Update & Security\"** and select **\"Check for Updates\"**. Install all available updates and feature updates. You may need to restart multiple times in the process.\n</MultiLineNote>\n\n## Setup WSL\n###  Enable WSL Feature\n\nOpen PowerShell as Administrator and run:\n\n```powershell\ndism.exe /online /enable-feature /featurename:Microsoft-Windows-Subsystem-Linux /all /norestart\n```\n\n### Enable Virtual Machine Feature\n\nEnable the Virtual Machine Platform feature. Your system will require BIOS-level hardware virtualization support which must be enabled in the BIOS settings.\n\n- You can check whether virtualization support is enabled by checking your Task Manager.\n    <Img imageSrc='https://docs.docker.com/docker-for-windows/images/virtualization-enabled.png'/>\n\n    - Open PowerShell as Administrator and run:\n\n    ```powershell\n    dism.exe /online /enable-feature /featurename:VirtualMachinePlatform /all /norestart\n    ```\n    - **Restart your PC.**\n\n### Download Kernel Package\n\n- Download the latest <a href=\"https://wslstorestorage.blob.core.windows.net/wslblob/wsl_update_x64.msi\" target=\"_blank\">WSL2 Linux kernel update package for x64 PCs</a>\n- Run the update package downloaded in the previous step. (Double-click to run - you will be prompted for elevated permissions, select \"yes\" to approve this installation.)\n\n### Set WSL 2 as your default version\n\nOpen PowerShell and run this command to set WSL 2 as the default version.\n\n```powershell\nwsl --set-default-version 2\n```\n\n### Install Linux Distribution\n\n- Install <a href=\"https://www.microsoft.com/en-in/p/ubuntu/9nblggh4msv6\" target=\"_blank\">Ubuntu</a> from Microsoft Store.\n- Once the installation is complete, open \"Ubuntu\" from start-menu.\n- Enter a new username and password for the WSL environment when prompted.\n\n## Setup Docker\n\n- Download <a href=\"https://hub.docker.com/editions/community/docker-ce-desktop-windows/\" target=\"_blank\">Docker Installer</a> and double-click `Docker Desktop Installer.exe` from your **admin account** to run the installer.\n- When prompted, ensure the **Enable WSL 2 Features** option is selected on the Configuration page.\n- Follow the instructions on the installation wizard authorize the installer and proceed with the install.\n- When the installation is successful, click Close to complete the installation process.\n\n- To start Docker Desktop, search for Docker, and select Docker Desktop in the search results.\n\n    <Img imageSrc='https://docs.docker.com/docker-for-windows/images/docker-app-search.png' />\n    - When the whale icon in the status bar stays steady, Docker Desktop is up-and-running, and is accessible from any terminal window.\n\n    <Img imageSrc='https://docs.docker.com/docker-for-windows/images/whale-icon-systray.png' />\n    - Enable Docker Integration with the WSL\n\n    <Img imageSrc='https://docs.docker.com/docker-for-windows/images/wsl2-choose-distro.png' />\n\n    ## Using docker from WSL\n- Now search for **Ubuntu** in your installed applications and start the application. A terminal will be opened.\n\n- Run the below command to see the docker version\n\n```sh\ndocker -v\n```\n\n- Run the below command to install the **prerequisites** for the IDE\n\n```sh\ncurl -s https://assets.ccbp.in/ide/windows-post-docker-installation.sh | bash\n```\n- **Restart** your PC\n\n## Starting the IDE\n- Open the Ubuntu application and run the below step to start the IDE\n\n```sh\ncd ~/ccbp-ide && docker-compose up -d\n```\n\n- Access the IDE from <a href=\"http://localhost\" target=\"_blank\">http://localhost</a>\n",
+    "mac": "## System Requirements\n\nThe following hardware prerequisites are required to successfully setup **CCBP IDE** in your **Mac System**\n\n- **Mac hardware must be a 2010 or a newer model with an Intel processor**, with Intel\u2019s hardware support for memory management unit (MMU) virtualization, including Extended Page Tables (EPT) and Unrestricted Mode.\n\n    - You can check to see if your machine has this support by running the following command in a terminal\n\n    ```sh\n    sysctl kern.hv_support\n    ```\n\n    - If your Mac supports the Hypervisor framework, the command prints\n\n    ```text\n    kern.hv_support: 1\n    ```\n\n- **macOS must be version 10.14 or newer**. That is, Mojave, Catalina, or Big Sur. We recommend upgrading to the latest version of macOS.\n\n- At least 4GB of RAM\n\n<MultiLineNote>\nFor smooth running of the IDE, it is recommended to have **8 GB of RAM** and an **SSD**. With a lesser configuration, you will experience your Mac to hang occasionally as the setup is Memory and Disk intensive.\n</MultiLineNote>\n<MultiLineNote>\nOlder versions of VirtualBox (prior to version 4.3.30) must not be installed.\n</MultiLineNote>\n\n<MultiLineWarning>\nIf your PC date & time are incorrect, then you will run into issues during installation and usage. You need to update your PC's date & time and *restart* it before proceeding further.\n</MultiLineWarning>\n\n## Setup Docker\n\n- Download <a href=\"https://hub.docker.com/editions/community/docker-ce-desktop-mac/\", target=\"_blank\">Docker for Mac</a> here\n- Double-click `Docker.dmg` to open the installer, then drag the Docker icon to the Applications folder.\n\n    <Img imageSrc='https://docs.docker.com/docker-for-mac/images/docker-app-drag.png' />\n\n- Double-click Docker.app in the Applications folder to start Docker. (In the example below, the Applications folder is in \u201cgrid\u201d view mode.)\n\n    <Img imageSrc='https://docs.docker.com/docker-for-mac/images/docker-app-in-apps.png' />\n\n- When the whale icon in the top status bar stays steady, Docker Desktop is up-and-running, and is accessible from a terminal.\n\n    <Img imageSrc='https://docs.docker.com/docker-for-mac/images/whale-in-menu-bar.png' />\n\n## Starting the IDE\n- Open the terminal and run the below steps one after the other\n\n```sh\ncd ~ && mkdir ccbp-ide && cd ccbp-ide\ncurl -fsSL https://assets.ccbp.in/ide/docker-compose.yml -o docker-compose.yml\ncd ~/ccbp-ide && docker-compose up -d\n```\n\n- Access the IDE from <a href=\"http://localhost\" target=\"_blank\">http://localhost</a>\n",
+    "ubuntu": "## System Requirements\nThe following hardware prerequisites are required to successfully setup **CCBP IDE** in your ** Ubuntu System**\n\n<SubSection>\n- The **64-bit version** of one of the following **Ubuntu** versions is supported.\n  - Ubuntu Groovy 20.10\n  - Ubuntu Focal 20.04 (LTS)\n  - Ubuntu Bionic 18.04 (LTS)\n  - Ubuntu Xenial 16.04 (LTS)\n- 4 GB system RAM.\n- BIOS-level hardware virtualization support must be **enabled** in the BIOS settings.\n</SubSection>\n\n<MultiLineNote>\nFor smooth running of the IDE, it is recommended to have **8 GB of RAM** and an **SSD**. With a lesser configuration, you may experience your device to hang occasionally as the setup is Memory and Disk intensive.\n</MultiLineNote>\n\n<MultiLineQuickTip>\nTo check your BIOS-level hardware virtualization support, Open the terminal and run `lscpu` command.\n</MultiLineQuickTip>\n\n<MultiLineWarning>\nIf your PC date & time are incorrect, then you will run into issues during installation and usage. You need to update your PC's date & time and *restart* it before proceeding further.\n</MultiLineWarning>\n\n\n## Setup Docker\n- Install the latest version of the **curl** command\n\n```sh\n sudo apt-get update -y && sudo apt-get install curl -y\n```\n\n- Run the below command to install `docker` and `docker-compose`\n\n```sh\ncurl -s https://assets.ccbp.in/ide/ubuntu-docker-installation.sh | bash\n```\n- **Restart** your PC\n- Run the below command to see the `docker` version\n\n```sh\ndocker -v\n```\n\n## Starting the IDE\n- Open the Ubuntu application and run the below step to start the IDE\n\n```sh\ncd ~/ccbp-ide && docker-compose up -d\n```\n\n- Access the IDE from <a href=\"http://localhost\" target=\"_blank\">http://localhost</a>\n\n"
+  },
+  "ide_update_instructions": "## Updating your CCBP IDE\n\nTo update your ccbp ide to a latest version, open terminal *(default Ubuntu terminal or the Ubuntu app installed in your windows system)* and change directory to where you have installed the ide\n\n```sh\ncd ~/ccbp-ide\n```\n\nSave your code, close the existing tabs and stop the IDE\n\n```sh\ndocker-compose down\n```\n\nGet the latest version of the `docker-compose.yml` file\n\n```sh\ncurl -fsSL https://assets.ccbp.in/ide/docker-compose.yml -o docker-compose.yml\n```\n\nPull the latest docker images\n\n```sh\ndocker-compose pull\n```\n\nNow finally, start the IDE again\n\n```sh\ncd ~/ccbp-ide && docker-compose up -d\n```\n\nTo check the latest version, open a terminal inside the ccbp IDE and run the below command\n\n```sh\nccbp version\n```\n\nThe latest stable version available is **1.3.4**\n",
+  "ide_platform_instructions_v1": {
+    "windows": [
+      {
+        "title": "System Requirements",
+        "instructions": "# 2. System Requirements\n\nThe following hardware prerequisites are required to successfully setup **CCBP IDE** in your **Windows System**\n\n<SubSection>\n- A **64-bit Windows 10** with **Version 1903** or higher, with a **Build** higher than **18363.1049**.\n- A 15 GB free space on C: Drive\n- 8 GB system RAM (Minimum).\n- BIOS-level hardware virtualization support must be **enabled** in the BIOS settings.\n</SubSection>\n\n<MultiLineNote>\n- For smooth running of the IDE, it is recommended to have **8 GB of RAM** and an **SSD** for C: drive. \n- With a lesser configuration, you will experience your PC to hang occasionally as the setup is Memory and Disk intensive. \n- If your PC has less than 8 GB RAM, then installing Ubuntu OS alongside Windows and working on Ubuntu instead is recommended over doing the following setup.\n</MultiLineNote>\n\n<MultiLineWarning>\nIf your PC date & time are incorrect, then you will run into issues during installation and usage. You need to update your PC's date & time and *restart* it before proceeding further.\n</MultiLineWarning>\n\n\n<MultiLineQuickTip>\nTo check your version and build number, select <HighlightedText>Windows logo key + R</HighlightedText>, type `winver`, select OK.\n</MultiLineQuickTip>\n\n<MultiLineNote>\nIf you are running an older version of Windows 10, open **\"Settings\"** from your Windows menu, navigate to **\"Update & Security\"** and select **\"Check for Updates\"**. Install all available updates and feature updates. You may need to restart multiple times in the process.\n</MultiLineNote>\n\n",
+        "faqs": {
+          "title": "Frequently Asked Questions",
+          "content": "<Section>\n#### Q. Can I do the setup on Windows 8, Windows 7, Windows XP or older versions of Windows?\n<SubSection>\nIt is not possible to do the setup on older versions of Windows. It is recommended that you install Ubuntu OS alongside Windows and do the setup on Ubuntu.\n</Subsection>\n#### Q. How to enable Virtualization in BIOS? \n<SubSection>\nTry the steps in the following link and see if that takes you to BIOS Settings\nhttps://www.windowscentral.com/how-enter-uefi-bios-windows-10-pcs\n\nIf that doesn't work, then when the computer starts and during the time it displays the manufacturer logo, try clicking one of `Esc`, `F1`, `F2`, ..., `F11`, `F12`, `Del` buttons. One of these buttons will take you to BIOS settings. The button which works depends on your specific device.\n\nIn BIOS settings, there would be an option to enable Virtualization.\n</SubSection>\n</Section>"
+        }
+      },
+      {
+        "title": "Enable WSL Feature",
+        "instructions": "# 3. Enable WSL Feature\n\nOpen PowerShell as Administrator and run:\n\n```powershell\ndism.exe /online /enable-feature /featurename:Microsoft-Windows-Subsystem-Linux /all /norestart\n```\n\n",
+        "faqs": {
+          "title": "Common Errors",
+          "content": "<Section>\n\n#### 1. Elevated permissions are required to run DISM.\n##### Error: 740\n\n<SubSection>\nYou need to run the given commands in Powershell as **Administrator**. Open the powershell run as administrator and run the given commands.\n</SubSection>\n\n#### 2. Term dsmi.exe is not recognized.\n\n<SubSection>\nThis only happens if you still need to install some of the Windows Updates.\n\nPlease check for Windows updates and re-do the previous steps again to fix this issue.\n</SubSection>\n\n</Section>"
+        }
+      },
+      {
+        "title": "Enable Virtual Machine",
+        "instructions": "# 4. Enable Virtual Machine Feature\n\nEnable the Virtual Machine Platform feature. Your system will require BIOS-level hardware virtualization support which must be enabled in the BIOS settings.\n\n- You can check whether virtualization support is enabled by checking your Task Manager.\n    <Img imageSrc='https://assets.ccbp.in/ide/virtualization-enabled.png'/>\n\n    - Open PowerShell as Administrator and run:\n\n    ```powershell\n    dism.exe /online /enable-feature /featurename:VirtualMachinePlatform /all /norestart\n    ```\n    - **Restart your PC.**\n\n",
+        "faqs": {
+          "title": "Common Errors",
+          "content": "<Section>\n\n#### 1. Elevated permissions are required to run DISM.\n##### Error: 740\n\n<SubSection>\nYou need to run the given commands in Powershell as **Administrator**. Open the powershell run as administrator and run the given commands.\n</SubSection>\n\n#### 2. Term dism.exe is not recognized.\n\n<SubSection>\nThis only happens if you still need to install some of the Windows Updates.\n\nPlease check for Windows updates and re-do the previous steps again to fix this issue.\n</SubSection>\n\n#### 3. Feature name VirtualMachinePlatform is unknown.\n##### Error: 0x800f080c\n\n<SubSection>\nThis only happens if you still need to install some of the Windows Updates.\n\n Please check for Windows updates and re-do the previous steps again to fix this issue.\n</SubSection>\n\n</Section>"
+        }
+      },
+      {
+        "title": "Download Kernel Package",
+        "instructions": "# 5. Download Kernel Package\n\n- Download the latest <a href=\"https://wslstorestorage.blob.core.windows.net/wslblob/wsl_update_x64.msi\" target=\"_blank\">WSL2 Linux kernel update package for x64 PCs</a>\n- Run the update package downloaded in the previous step. (Double-click to run - you will be prompted for elevated permissions, select \"yes\" to approve this installation.)\n\n",
+        "faqs": {
+          "title": "Common Errors",
+          "content": "<Section>\n\n#### 1. This update only applies to machines with the windows Subsystem for Linux. (Popup)\n\n<SubSection>\nThis only happens if you have missed one of the previous steps. Or if you still need to install some of the Windows Updates. Please check for Windows updates and re-do the previous steps again to fix this issue.\n</SubSection>\n\n</Section>"
+        }
+      },
+      {
+        "title": "WSL2 as Default Version",
+        "instructions": "# 6. Set WSL 2 as your default version\n\nOpen PowerShell and run this command to set WSL 2 as the default version.\n\n```powershell\nwsl --set-default-version 2\n```\n\n",
+        "faqs": {
+          "title": "Common Errors",
+          "content": "<Section>\n\n#### 1. The term wsl is not recognized as the name of the cmdlet ....\n\n<SubSection>\nThis only happens if you have missed one of the previous steps. Or if you still need to install some of the Windows Updates.\n\nPlease check for Windows updates and re-do the previous steps again to fix this issue.\n</SubSection>\n\n</Section>"
+        }
+      },
+      {
+        "title": "Install Linux Distribution",
+        "instructions": "# 7. Install Linux Distribution\n\n- Install <a href=\"https://www.microsoft.com/en-in/p/ubuntu/9nblggh4msv6\" target=\"_blank\">Ubuntu</a> from Microsoft Store.\n- Once the installation is complete, open \"Ubuntu\" from start-menu.\n- Enter a new username and password for the WSL environment when prompted.\n\n<MultiLineNote>\nPassword will not be visible when you're typing.\n</MultiLineNote>\n",
+        "faqs": {
+          "title": "Common Errors",
+          "content": "<Section>\n\n#### 1. WslRegisterDistribution failed with error: 0x80080005\n##### Error: 0x80080005 Server execution failed\n\n<SubSection>\n\nUninstall Ubuntu, follow the below steps, and reinstall ubuntu.\n\nPlease ensure that **CPU virtualization** and **Virtual Machine Platform** Windows features are enabled.\n\nCPU Virtualization:\n\n- Open Task Manager.\n- Click on the performance tab, There you can see virtualization is enabled or not.\n- If it's not enabled please enable it in BIOS Settings.\n\n![Virtualization](https://assets.ccbp.in/ide/virtualization-enabled.png)\nFor Virtual Machine Platform :\n\n- Search for **Windows Features** in your taskbar.\n- Then look for **Virtual Machine Platform**  and enable it.\n\n![Virtual Machine Platform](https://nkb-backend-ccbp-media-static.s3.ap-south-1.amazonaws.com/otg_prod/media/discussion_attachment/aa9d0f2e-4ae8-41cd-9f8a-a04fe2a8639c)\n</SubSection>\n\n#### 2. Blank page or didn't ask for username and password.\n\n<SubSection>\nThe easiest way to resolve this is to uninstall Ubuntu and reinstall it again.\n</SubSection>\n\n</Section>\n"
+        }
+      },
+      {
+        "title": "Setup Docker",
+        "instructions": "# 8. Setup Docker\n\n- Download <a href=\"https://hub.docker.com/editions/community/docker-ce-desktop-windows/\" target=\"_blank\">Docker Installer</a> and double-click `Docker Desktop Installer.exe` from your **admin account** to run the installer.\n- When prompted, ensure the **Enable WSL 2 Features** option is selected on the Configuration page.\n- Follow the instructions on the installation wizard authorize the installer and proceed with the install.\n- When the installation is successful, click Close to complete the installation process.\n\n- To start Docker Desktop, search for Docker, and select Docker Desktop in the search results.\n\n    <Img imageSrc='https://assets.ccbp.in/ide/docker-app-search.png' />\n    - When the whale icon in the status bar stays steady, Docker Desktop is up-and-running, and is accessible from any terminal window.\n\n    <Img imageSrc='https://assets.ccbp.in/ide/whale-icon-systray.png' />\n    - Enable Docker Integration with the WSL\n\n    <Img imageSrc='https://assets.ccbp.in/ide/wsl2-choose-distro.png' />\n\n",
+        "faqs": {
+          "title": "Common Errors",
+          "content": "<Section>\n\n#### 1. Docker failed to initialize.\n\n<SubSection>\nThis could be due to the corrupted files in Docker. Follow the below steps to resolve your issue.\n\n- Uninstall Docker Desktop\n- Open Local Disk C\n- Navigate to `Users\\<user name>\\AppData\\Roaming\\Docker`\n- Delete all files in the Docker folder\n- Reinstall Docker Deskop\n\n</SubSection>\n\n#### 2. Installation failed: one prerequisite is not fulfilled. \n> ERROR: Docker Deskop requires Windows 10 Pro/Enterprise ...\n\n<SubSection>\nThis only happens if you have missed one of the previous steps. Or if you still need to install some of the Windows Updates.\n\nPlease check for Windows updates and re-do the previous installation steps again to fix this issue.\n</SubSection>\n\n#### 3. Docker Installation failed.\n![Docker Installation Failed](https://i.stack.imgur.com/XBEBU.png)\n\n<SubSection>\nThis issue occurs when docker is used by other applications.\n\nRun the below commands to fix this:\n\n- Open Task Manager\n- Click on the services tab\n- look for `com.docker.service` and right-click on it and select stop\n- Now try to reinstall Docker Desktop again.\n\n</SubSection>\n\n#### 4. Hardware assisted virtualization and data execution protection must be enabled in the BIOS\n\n<SubSection>\nThis issue occurs if virtualization is not enabled.\n\nTry the steps in the following link and see if that takes you to BIOS Settings\n[https://www.windowscentral.com/how-enter-uefi-bios-windows-10-pcs](https://www.windowscentral.com/how-enter-uefi-bios-windows-10-pcs)\n\nIf that doesn't work, then when the computer starts and during the time it displays the manufacturer logo, try clicking one of `Esc`,  `F1`, `F2`,  ..., `F11`, `F12`,  `Del` buttons. One of these buttons will take you to BIOS settings. The button which works depends on your specific device.\n\nIn BIOS settings there would be an option to enable Virtualisation.\n\n</SubSection>\n\n#### 5. You Don't have WSL Distro (or) If you are unable to find the Ubuntu Option at Resources >Wsl Integration section\n\n<SubSection>\nThis happens if you have missed a step while doing the installation of Ubuntu.\n\nTo confirm the reason type the following command in Powershell,\n\n```powershell\nwsl --list -v\n```\n\nIf you see an error when typing the above command or if you see that Ubuntu has version 1 with it, it means that you have installed Ubuntu as WSL version 1 but it needs to be installed as version 2.\n\nPlease install Windows Updates and re-do the steps again\n\nUninstall Ubuntu, and then re-install it.</SubSection>\n</Section>\n"
+        }
+      },
+      {
+        "title": "Using Docker from WSL",
+        "instructions": "# 9. Using docker from WSL\n- Now search for **Ubuntu** in your installed applications and start the application. A terminal will be opened.\n\n- Run the below command to see the docker version\n\n```sh\ndocker -v\n```\n\n- Run the below command to install the **prerequisites** for the IDE\n\n```sh\ncurl -s https://assets.ccbp.in/ide/windows-post-docker-installation.sh | bash\n```\n- **Restart** your PC\n\n## Starting the IDE\n- Open the Ubuntu application and run the below step to start the IDE\n\n```sh\ncd ~/ccbp-ide && docker-compose up -d\n```\n\n- Access the IDE from <a href=\"http://localhost\" target=\"_blank\">http://localhost</a>\n",
+        "faqs": {
+          "title": "Common Errors",
+          "content": "<Section>\n\n#### 1. The command docker couldn't be found in this WSL 2  Distro.\n> ERROR:  You don't have any WSL2 Distro, Please convert a WSL 1 Distro to WSL 2 , or install a new distro and it will appear here.\n\n<SubSection>\n\nThis Happens if you have installed Ubuntu without running the below command:\n\nRun the below command in powershell:\n\n```powershell\nwsl --set-default-version 2\n```\n\n</SubSection>\n\n#### 2.The command 'docker couldn't be found in this WSL 1  Distro.(set wsl 2 as default) or WSL Integration\n\n<SubSection>\nThis happens if you missed didn't Enable Docker Integration with the WSL.\n\n`Open Docker Desktop Application >> Resources >> WSL Integration, then Enable WSL Integration`.\n</SubSection>\n\n#### 3. DockerException: Error while fetching server API version.\n>ERROR:  docker.errors.DockerException: Error while fetching server API version: ('Connection aborted.', FileNotFoundError(2, 'No such file or directory'))\n\n![Getting Started](https://res.cloudinary.com/learning-platform/image/fetch/dpr_auto,w_auto,f_auto,q_auto/https://nkb-backend-ccbp-media-static.s3.ap-south-1.amazonaws.com/prod/media/profile_pic/card-notes-attachment/8288c6f9-a589-4628-9a03-264dcc98fa01.png)\n\n<SubSection>\nThis happens if Docker Desktop is not running. Please start/restart Docker Desktop, wait for it to completely start, and try running these commands again.\n</SubSection>\n\n#### 4. While opening the localhost Docker getting started page is opening\n\n[](https://nkb-backend-ccbp-media-static.s3.ap-south-1.amazonaws.com/otg_prod/media/discussion_attachment/6132f655-df94-4dd9-a419-38ad96965e6b)\n\n<SubSection>\nThis could be a cache issue, so clear all cookies and cache of the browser.\n\nIf the issue still persists Open the http://localhost in the incognito window.\n</SubSection>\n\n\n#### 5. Unable to start CCBP-IDE: Ports are not available.\n> ERROR: Ports are not available: listen tcp 0.0.0.0:PORT ...\n\n<SubSection>\nPlease go through the below discussion:\n\n[https://learning.ccbp.in/discussions/245aec94-9906-4142-ab49-02647e7ba8ca](https://learning.ccbp.in/discussions/245aec94-9906-4142-ab49-02647e7ba8ca)\n\nIf the solutions mentioned in above discussion didn't resolve your issue, follow below steps:\n\n- Open Powershell as Administrator.\n- Run the below command to check which process is running on port, replace *\\<PORT>* with port number on which you're facing the issue:\n\n```powershell\nnetstat -aon | findstr <PORT>\n```\n\n- Kill the process by using the below command, replace the *\\<PID>* with the number you got next to the LISTENING:\n\n```powershell\ntaskkill /f /pid <PID>\n```\n\n</SubSection>\n\n#### 6. dial tcp: timeout\n> ERROR: dial tcp: lookup auth.docker.io on 192.x.x.x:x read udp 192.x.x.x:x->192.x.x.x:x: i/o timeout\n\n![Dial Tcp Timeout](https://res.cloudinary.com/learning-platform/image/fetch/dpr_auto,w_auto,f_auto,q_auto/https%3A%2F%2Fnkb-backend-ccbp-media-static.s3.ap-south-1.amazonaws.com%2Fotg_prod%2Fmedia%2Fdiscussion_attachment%2F76b72275-b79a-444b-88fd-44531456e8b2.jpeg)\n\n<SubSection>\nThe download is being interrupted. This happens due to an unstable internet connection.\n\nRe-running the last command until the download completes is the only way to get through this.\n</SubSection>\n\n</Section>"
+        }
+      }
+    ],
+    "mac": [
+      {
+        "title": "System Requirements",
+        "instructions": "# 2. System Requirements\n\nThe following hardware prerequisites are required to successfully setup **CCBP IDE** in your **Mac System**\n\n- **Mac hardware must be a 2010 or a newer model with an Intel processor**, with Intel\u2019s hardware support for memory management unit (MMU) virtualization, including Extended Page Tables (EPT) and Unrestricted Mode.\n\n    - You can check to see if your machine has this support by running the following command in a terminal\n\n    ```sh\n    sysctl kern.hv_support\n    ```\n\n    - If your Mac supports the Hypervisor framework, the command prints\n\n    ```text\n    kern.hv_support: 1\n    ```\n\n- **macOS must be version 10.14 or newer**. That is, Mojave, Catalina, or Big Sur. We recommend upgrading to the latest version of macOS.\n\n- At least 4GB of RAM\n\n<MultiLineNote>\nFor smooth running of the IDE, it is recommended to have **8 GB of RAM** and an **SSD**. With a lesser configuration, you will experience your Mac to hang occasionally as the setup is Memory and Disk intensive.\n</MultiLineNote>\n<MultiLineNote>\nOlder versions of VirtualBox (prior to version 4.3.30) must not be installed.\n</MultiLineNote>\n\n<MultiLineWarning>\nIf your PC date & time are incorrect, then you will run into issues during installation and usage. You need to update your PC's date & time and *restart* it before proceeding further.\n</MultiLineWarning>\n\n",
+        "faqs": {
+          "title": "",
+          "content": ""
+        }
+      },
+      {
+        "title": "Setup Docker",
+        "instructions": "# 3. Setup Docker\n\n- Download <a href=\"https://hub.docker.com/editions/community/docker-ce-desktop-mac/\", target=\"_blank\">Docker for Mac</a> here\n- Double-click `Docker.dmg` to open the installer, then drag the Docker icon to the Applications folder.\n\n    <Img imageSrc='https://assets.ccbp.in/ide/docker-app-drag.png' />\n\n- Double-click Docker.app in the Applications folder to start Docker. (In the example below, the Applications folder is in \u201cgrid\u201d view mode.)\n\n    <Img imageSrc='https://assets.ccbp.in/ide/docker-app-in-apps.png' />\n\n- When the whale icon in the top status bar stays steady, Docker Desktop is up-and-running, and is accessible from a terminal.\n\n    <Img imageSrc='https://assets.ccbp.in/ide/whale-in-menu-bar.png' />\n\n",
+        "faqs": {
+          "title": "",
+          "content": ""
+        }
+      },
+      {
+        "title": "Starting the IDE",
+        "instructions": "# 4. Starting the IDE\n- Open the terminal and run the below steps one after the other\n\n```sh\ncd ~ && mkdir ccbp-ide && cd ccbp-ide\ncurl -fsSL https://assets.ccbp.in/ide/docker-compose.yml -o docker-compose.yml\ncd ~/ccbp-ide && docker-compose up -d\n```\n\n- Access the IDE from <a href=\"http://localhost\" target=\"_blank\">http://localhost</a>\n",
+        "faqs": {
+          "title": "Common Errors",
+          "content": "<Section>\n\n#### Error response from daemon: Ports are not available: listen tcp 0.0.0.0:5000: bind: address already in use\n\n<SubSection>\n    - Open system preferences\n\n        ![System preferences](https://nkb-backend-ccbp-media-static.s3.ap-south-1.amazonaws.com/otg_prod/media/discussion_attachment/5de45535-e35c-4ec7-b424-3bf36ef086df.jpeg)\n    - Then open Sharing\n        ![System preferences > Sharing ](https://nkb-backend-ccbp-media-static.s3.ap-south-1.amazonaws.com/otg_prod/media/discussion_attachment/c41d8e2e-98ce-4488-aaba-b6d9569bfd49.jpeg)\n\n    - You will be now able to see a screen similar to below, post the screenshot of this screen:\n\n        ![Sharing Tab](https://nkb-backend-ccbp-media-static.s3.ap-south-1.amazonaws.com/otg_prod/media/discussion_attachment/85d6858d-2198-4995-be72-e44b970697ea.jpeg)\n\n    - If you see screen similar to below:\n        - The issue you're facing is due to AirPlay Receiver, the port 5000 is being used by this application.\n        - You have to Uncheck Airplay Receiver, as the Airplay receiver is using that port.\n\n        ![](https://nkb-backend-ccbp-media-static.s3.ap-south-1.amazonaws.com/otg_prod/media/discussion_attachment/de72fb75-7ff0-49e9-a229-16855088dfa2.jpeg)\n    \n</SubSection>\n\n</Section>"
+        }
+      }
+    ],
+    "ubuntu": [
+      {
+        "title": "System Requirements",
+        "instructions": "# 2. System Requirements\nThe following hardware prerequisites are required to successfully setup **CCBP IDE** in your ** Ubuntu System**\n\n<SubSection>\n- The **64-bit version** of one of the following **Ubuntu** versions is supported.\n  - Ubuntu Groovy 20.10\n  - Ubuntu Focal 20.04 (LTS)\n  - Ubuntu Bionic 18.04 (LTS)\n  - Ubuntu Xenial 16.04 (LTS)\n- 4 GB system RAM.\n- BIOS-level hardware virtualization support must be **enabled** in the BIOS settings.\n</SubSection>\n\n<MultiLineNote>\nFor smooth running of the IDE, it is recommended to have **8 GB of RAM** and an **SSD**. With a lesser configuration, you may experience your device to hang occasionally as the setup is Memory and Disk intensive.\n</MultiLineNote>\n\n<MultiLineQuickTip>\nTo check your BIOS-level hardware virtualization support, Open the terminal and run `lscpu` command.\n</MultiLineQuickTip>\n\n<MultiLineWarning>\nIf your PC date & time are incorrect, then you will run into issues during installation and usage. You need to update your PC's date & time and *restart* it before proceeding further.\n</MultiLineWarning>\n\n\n",
+        "faqs": {
+          "title": "",
+          "content": ""
+        }
+      },
+      {
+        "title": "Setup Docker",
+        "instructions": "# 3. Setup Docker\n- Install the latest version of the **curl** command\n\n```sh\n sudo apt-get update -y && sudo apt-get install curl -y\n```\n\n- Run the below command to install `docker` and `docker-compose`\n\n```sh\ncurl -s https://assets.ccbp.in/ide/ubuntu-docker-installation.sh | bash\n```\n- **Restart** your PC\n- Run the below command to see the `docker` version\n\n```sh\ndocker -v\n```\n\n",
+        "faqs": {
+          "title": "",
+          "content": ""
+        }
+      },
+      {
+        "title": "Starting IDE",
+        "instructions": "# 4. Starting the IDE\n- Open the Ubuntu application and run the below step to start the IDE\n\n```sh\ncd ~/ccbp-ide && docker-compose up -d\n```\n\n- Access the IDE from <a href=\"http://localhost\" target=\"_blank\">http://localhost</a>\n\n",
+        "faqs": {
+          "title": "",
+          "content": ""
+        }
+      }
+    ]
+  },
+  "ide_updated_urls_for_vscode": [
+    {
+      "from": "https://assets.ccbp.in/ide/windows-post-docker-installation.sh",
+      "to": "https://new-assets.ccbp.in/ide/v2/windows-post-docker-installation.sh"
+    },
+    {
+      "from": "https://assets.ccbp.in/ide/ubuntu-docker-installation.sh",
+      "to": "https://new-assets.ccbp.in/ide/v2/ubuntu-docker-installation.sh"
+    },
+    {
+      "from": "https://assets.ccbp.in/ide/docker-compose.yml",
+      "to": "https://new-assets.ccbp.in/ide/v2/docker-compose.yml"
+    }
+  ],
+  "enroll_plan_tags_config": {
+    "ccbp": {
+      "tag_text": "professional",
+      "tag_text_color": "#ffffff",
+      "tag_background_color": "linear-gradient(to bottom, #63f7a1, #27ae60)"
+    },
+    "ccbp_dr_apj": {
+      "tag_text": "ccbp apj",
+      "tag_text_color": "#ffffff",
+      "tag_background_color": "linear-gradient(to bottom, #63f7a1, #27ae60)"
+    },
+    "ccbp_intensive": {
+      "tag_text": "intensive",
+      "tag_text_color": "#ffffff",
+      "tag_background_color": "linear-gradient(to bottom, rgba(147, 51, 234, 0.4), #9333ea)"
+    },
+    "ccbp_college_association": {
+      "tag_text": "college association",
+      "tag_text_color": "#ffffff",
+      "tag_background_color": "linear-gradient(to bottom, rgba(147, 51, 234, 0.4), #9333ea)"
+    },
+    "ccbp_academy_genius": {
+      "tag_text": "genius",
+      "tag_text_color": "#121d36",
+      "tag_background_color": "linear-gradient(to bottom, #ffd600, #ff8a00)"
+    },
+    "ccbp_academy_genius_plus": {
+      "tag_text": "genius plus",
+      "tag_text_color": "#121d36",
+      "tag_background_color": "linear-gradient(to bottom, #ffd600, #ff8a00)"
+    },
+    "ccbp_academy_genius_career_plus": {
+      "tag_text": "career plus genius",
+      "tag_text_color": "#121d36",
+      "tag_background_color": "linear-gradient(to bottom, #ffd600, #ff8a00)"
+    },
+    "ccbp_academy_smart": {
+      "tag_text": "smart",
+      "tag_text_color": "#ffffff",
+      "tag_background_color": "linear-gradient(to bottom, #56aeff, #006acb)"
+    },
+    "ccbp_academy_smart_plus": {
+      "tag_text": "smart plus",
+      "tag_text_color": "#ffffff",
+      "tag_background_color": "linear-gradient(to bottom, #56aeff, #006acb)"
+    },
+    "ccbp_academy_smart_career_plus": {
+      "tag_text": "career plus smart",
+      "tag_text_color": "#ffffff",
+      "tag_background_color": "linear-gradient(to bottom, #56aeff, #006acb)"
+    },
+    "ccbp_academy_edge": {
+      "tag_text": "edge",
+      "tag_text_color": "#ffffff",
+      "tag_background_color": "linear-gradient(to bottom, #B0BED2, #566881)"
+    },
+    "ccbp_academy_edge_plus": {
+      "tag_text": "edge plus",
+      "tag_text_color": "#ffffff",
+      "tag_background_color": "linear-gradient(to bottom, #B0BED2, #566881)"
+    },
+    "intensive_free_trial": {
+      "tag_text": "Intensive trial",
+      "tag_text_color": "#ffffff",
+      "tag_background_color": "linear-gradient(to bottom, #8D8F92, rgba(163, 163, 163, 0.7));"
+    },
+    "ccbp_academy_fundamentals": {
+      "tag_text": "fundamentals",
+      "tag_text_color": "#ffffff",
+      "tag_background_color": "linear-gradient(to bottom, #34D399, #307E62);"
+    },
+    "niat": {
+      "tag_text": "NIAT",
+      "tag_text_color": "#ffb218",
+      "tag_background_color": "linear-gradient(to bottom, #991b1b, #991b1b);"
+    },
+    "last_minute_pro": {
+      "tag_text": "lastminute",
+      "tag_text_color": "#ffffff",
+      "tag_background_color": "linear-gradient(to bottom, #8881FF 9.05%, #4F46E5 117.71%)"
+    },
+    "dsa": {
+      "tag_text": "dsa",
+      "tag_text_color": "#FFFFFF",
+      "tag_background_color": "linear-gradient(202.16deg, #FF6C1E 9.82%, #A90D0D 127.52%)"
+    },
+    "nxtwave_abroad": {
+      "tag_text": "nxtwave abroad",
+      "tag_text_color": "#ffffff",
+      "tag_background_color": "linear-gradient(to bottom, #5844E3 0%, #F07825 100%)"
+    },
+    "ccbp_academy_college_plus": {
+      "tag_text": "college plus",
+      "tag_text_color": "#ffffff",
+      "tag_background_color": "linear-gradient(to bottom, #05C6F4 30.54%, #03718B 101.1%)"
+    },
+    "intensive_college_plus": {
+      "tag_text": "intensive college plus",
+      "tag_text_color": "#ffffff",
+      "tag_background_color": "linear-gradient(to bottom, rgba(147, 51, 234, 0.4), #9333ea)"
+    }
+  }
+}
